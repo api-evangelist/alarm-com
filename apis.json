@@ -1,0 +1,68 @@
+{
+    "name": "Alarm.com",
+    "description": "Alarm.com\u2019s Smart Home Security and solutions power millions of homes. 24\/7 professional monitoring and smart home technology keep your home secure and under your control.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18982-alarm-com.jpg",
+    "tags": [
+        "alarms",
+        "api not found",
+        "automation",
+        "have api",
+        "no api definition",
+        "surveillance"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/alarm-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Alarm.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18982-alarm-com.jpg",
+            "humanURL": "http:\/\/www.alarm.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/alarm-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.alarm.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/alarm-com"
+        },
+        {
+            "type": "Email",
+            "url": "info@alarm.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@alarm.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@alarm.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AlarmDotCom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.alarm.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/arm.com"
+        }
+    ]
+}
